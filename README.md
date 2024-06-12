@@ -5,9 +5,6 @@ This is a simple C# console application that converts a binary string input from
 ## Table of Contents
 - [Description](#description)
 - [Usage](#usage)
-- [Code Explanation](#code-explanation)
-- [Installation](#installation)
-- [License](#license)
 
 ## Description
 
